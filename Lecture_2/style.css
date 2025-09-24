@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    margin: auto;
+    margin-top: 30px;
+    width: 60%;
+    text-align: center;
+    border: 2px solid black;
+    min-height: 200px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.oblique {
+    font-style: oblique;
+}
+
+.task2 {
+    background-color: yellow;
+}
+
+.task3 {
+    color: red;
+    text-align: end;
+    font-size: 26px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.task4 {
+    text-align: start;
+}
+
+.task4 h3{
+    text-align: end;
+    padding: 20px;
+}
+
+.task4 h2 {
+    text-align: center;
+}
+
+.girlname {
+    border-bottom: solid 5px red;
+    width: 50%;
+}
+
+.boyname {
+    border-bottom: solid 5px blue;
+    width: 50%;
+}
