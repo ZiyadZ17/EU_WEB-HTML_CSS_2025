@@ -1,0 +1,77 @@
+.menu {
+    margin: 0 auto;
+    border: solid green 2px;
+    width: 80%;
+    height: 500px;
+    background-color: lightgrey;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.task1 {
+    margin: 0 auto;
+    width: 400px;
+    border: solid black 1px;
+    padding: 10px;
+}
+
+.task2 {
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: yellow;
+    border: solid black 2px;
+    padding: 5px;
+}
+
+.task3 {
+    margin: 0 auto;
+    margin-top: 50PX;
+    background-color: cornflowerblue;
+    color: white;
+    width: 400px;
+    height: 150px;
+    padding: 30px;
+    text-align: center;
+    border: solid 1px black;
+}
+
+.task4 {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: lightgrey;
+    padding: 100px;
+    color: blue;
+}
+
+.task4 .bold {
+    font-weight: bold;
+}
+
+.task4 .black {
+    color: black;
+}
+
+.task4 .green {
+    color: green;
+}
+
+.task5 {
+    width: 80%;
+    padding: 30px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-image: url(windows_xp.jpg);
+    background-size: cover;
+}
+
+.task6 {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-image: url(sky.jpeg);
+    background-size: cover;
+    padding: 20px;
+    border: 2px solid black;
+}
