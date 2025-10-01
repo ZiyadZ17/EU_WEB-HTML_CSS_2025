@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+.center {
+    text-align: center;
+}
+
+body {
+    background-image: url(bg-img.webp);
+    background-size: cover;
+    padding: 0 5%;
+    margin: 0;
+}
+
+p {
+    text-indent: 20px;
+}
+
+.block1 {
+    border-bottom: 5px grey solid;
+}
+
+.block2 img {
+    width: 400px;
+    height: 200px;
+    float: left;
+    margin-right: 20px;
+    border: 2px solid black;
+}
+
+.block3 {
+    margin-top: 50px;
+    border-top: 5px grey solid;
+    border-bottom: 5px grey solid;
+    padding-bottom: 50px;
+}
+
+.cont {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.block3 img {
+    width: 400px;
+    height: 250px;
+}
+
+.comp_img {
+    width: 500px;
+    height: 300px;
+}
