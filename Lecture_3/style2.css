@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.tbilisi {
+    background-image: url(CentralTbilisi.jpg);
+    background-size: cover;
+    padding: 30px;
+    
+}
+
+.tbilisi_img {
+    width: 400px;
+    height: 250px;
+    float: left;
+    margin-right: 20px;
+}
+
+.tbilisi_description {
+    border-bottom: white 3px solid;
+}
+
+.tbilisi a{
+    margin-right: 20px;
+}
