@@ -1,0 +1,9 @@
+.task1 {
+    margin: auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+.task1 td {
+    border: 1px solid black;
+    padding: 8px;
+}
